@@ -19,6 +19,7 @@ I saw how HTML and CSS interact with eachother.
 ## Installation
 
 The webpage is a pamphlet with no moveing parts.  To run enter "https://allenvancil.github.io/code-refactor/" in to a search engine.
+
 ## Usage
 
 Need to learn to add images.
