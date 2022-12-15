@@ -21,4 +21,12 @@ I saw how HTML and CSS interact with eachother.
 The webpage is a pamphlet with no moveing parts.  To run enter "https://allenvancil.github.io/code-refactor/" in to a search engine.
 ## Usage
 
-Need to learn to add images.
+The webpage should look like the following:
+
+
+![mockup](./assets/images/coderefactor-1.png)
+
+
+
+![mockup](./assets/images/coderefactor-2.png)
+
