@@ -5,6 +5,13 @@
 
 The purpose of the project is to apply accessiblity standards to the HTML code so that is optimized for search engines.
 
+I also put in alternative text description if images and icons did not load or load slowly.
+
+The function of each part of the code can be more easily understood.  This applies for the HTML and how the CSS file interacts
+
+Redundancies in the CSS code were removed.
+
+I learned about 
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -13,19 +20,10 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+The webpage is a pamphlet with no moveing parts.  To run enter "https://allenvancil.github.io/code-refactor/" in to a search engine.
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
@@ -33,7 +31,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](./assets/images/coderefactor-1.png)
     ```
 
 ## Credits
